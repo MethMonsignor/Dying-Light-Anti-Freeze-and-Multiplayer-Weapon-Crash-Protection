@@ -16,16 +16,16 @@
 
 ## Usage
 
-Drop the contents of `src/` into your RP framework or modding environment. Hook `onFrameUpdate()` and `onEntityCreated()` into your simulation loop or spawn logic.
+Drop the contents of data4 into *DW Folder*.
 
 ## Quarantine Vault
 
-Suspicious weapons are isolated in `logs/quarantine_log.txt` for contributor review. This ensures immersive governance without compromising RP flow.
+Suspicious weapons are isolated in `logs/quarantine_log.txt` for contributor review. This ensures immersive governance without compromising.
 
 ## License
 
-This repository is licensed under [Your License Here]. All lore, logic, and contributor scaffolds are traceable and ethically governed.
+This repository is licensed under [MIT License]. All lore, logic, and contributor scaffolds are traceable and ethically governed.
 
 ## Credits
 
-Built by MethMonsignor for EmporiumRP. Every line is legacy-grade.
+Built by MethMonsignor. Every line is legacy-grade.
