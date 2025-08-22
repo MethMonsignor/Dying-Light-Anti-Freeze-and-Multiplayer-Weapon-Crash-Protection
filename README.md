@@ -2,7 +2,7 @@
 #  Anti-Freeze + Multiplayer Weapon Crash Guard
 
 **Author:** MethMonsignor  
-**Purpose:** Detect runtime freezes and sanitize crash-inducing weapons in multiplayer environments like *Dying Light* and *GMod*. Built for EmporiumRP's spawnless Lua governance framework.
+**Purpose:** Detect runtime freezes and sanitize crash-inducing weapons in multiplayer environments for *Dying Light*.
 
 ## Features
 
